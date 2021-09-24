@@ -1,5 +1,5 @@
 function example2d_landmarks()
-    landmarks = [2 1; 0 4; 2 7; 9 2; 10 5; 9 8; 5 5; 5 3; 5 9]
+    landmarks = [2 1; 0 4; 2 7; 9 2; 10 5; 9 8; 5 5; 5 3; 5 9;1 1; 2 2; 3 3;]
     return landmarks
 end
 
